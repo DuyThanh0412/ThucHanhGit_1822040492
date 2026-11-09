@@ -1,7 +1,7 @@
 # Bài thực hành Git & GitHub
 
 - Họ tên: Nguyễn Duy Thanh
-- Mã số sinh viên: Chưa cập nhật
+- Mã số sinh viên: 1822040492
 - Ngành: Công nghệ thông tin
 - Trường: Đại học Công nghệ Đồng Nai
 
